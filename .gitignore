@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Uploaded product images (keep the folder, drop the contents)
+uploads/*
+!uploads/.gitkeep
